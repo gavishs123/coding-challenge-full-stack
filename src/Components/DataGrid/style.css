@@ -1,0 +1,18 @@
+.datatable {
+    width: 80%;
+    height: auto;
+    margin: 5% 0 0 10%;
+}
+.feed_image{
+    width: 100px;
+    height: 100px;
+}
+.no_data{
+    font-size: 12px !important;
+    text-align: center;
+}
+.searchBox{
+    float:right;
+    margin-bottom: 30px;
+    padding-right: 140px;
+}
